@@ -1,0 +1,5 @@
+Download Online Retail.xlsx from:
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+Place the Excel file in this folder. The expected filename is:
+Online Retail.xlsx
